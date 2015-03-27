@@ -1,0 +1,450 @@
+@font-face {
+  font-family: '5AM Gender';
+  src: url('http://www.fontsaddict.com/fontface/5am-gender.ttf');
+}
+
+img, media {
+  max-width: 100%;
+}
+
+/* No files to import found in partials/components/**\/* */
+
+body {
+color:#313131;
+font: 16px/18px "Helvetica Neue",Roboto,"Segoe UI",Calibri,sans-serif;
+line-height:1.6em;
+}
+
+a {color:#6bc1bc; font-weight:bold;}
+
+h1 {
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 4em;
+font-weight:normal;
+line-height: 0.9em;
+}
+
+h1 a, h2 a {text-decoration:none; font-weight:normal;}
+
+#block-tb-megamenu-main-menu
+{
+font-family: '5AM Gender';
+font-size: 2em;
+font-weight:normal;
+}
+
+#block-tb-megamenu-main-menu a
+{
+text-decoration:none;
+}
+
+#block-tb-megamenu-main-menu li a
+{
+width:4.64em;
+height: 140px;
+margin-right:20px;
+text-align:center;
+line-height:100px;
+}
+
+
+
+
+
+#block-tb-megamenu-main-menu li a:hover
+{
+background-color:#313131;
+}
+
+.tb-megamenu .nav > li > a {
+font-weight:normal;
+border-right:none;
+}
+
+.tb-megamenu {
+background-color:#FFFFFF;
+}
+
+.front h1 {display:none;}
+
+.tb-megamenu-item:nth-child(1) a {
+background-color:#6bc1bc;
+}
+
+.tb-megamenu-item:nth-child(2) a {
+background-color:#ff6263;
+}
+.tb-megamenu-item:nth-child(3) a {
+background-color:#6669ec;
+}
+.tb-megamenu-item:nth-child(4) a {
+background-color:#ff8041;
+}
+.tb-megamenu-item:nth-child(5) a {
+background-color:#ecd631;
+}
+.tb-megamenu-item:nth-child(6) a {
+background-color:#6bc1bc;
+}
+.tb-megamenu-item:nth-child(7) a {
+background-color:#ff8041;
+}
+.tb-megamenu-item:nth-child(8) a {
+background-color:#ecd631;}
+
+
+#block-tb-megamenu-main-menu .level-2 a
+{
+width:100%;
+height: 2em;
+margin-left:0px;
+text-align:left;
+line-height:auto;
+background-color:#313131;
+color:#ffffff;
+font: 16px/18px "Helvetica Neue",Roboto,"Segoe UI",Calibri,sans-serif;
+padding:10px;
+}
+
+
+
+
+
+.l-footer {
+background-color:#6bc1bc;
+list-style: outside none none;
+padding:0px;
+}
+
+
+.l-footer ul li {
+    float: left;
+    margin: 20px;
+	list-style-type:none;
+	margin: 20px 10px 20px 0;
+	}
+	
+.l-footer .menu .expanded {
+    list-style-image:none;
+	list-style-type:none;
+	}
+	
+.l-footer a{
+text-decoration:none;
+color:#ffffff;
+font-size:2em;
+font-family: '5AM Gender';
+}
+
+.l-footer .menu .leaf {
+list-style-type:none;
+list-style-image:none; }
+
+.l-footer .menu .expanded .leaf {
+list-style-type: square;
+}
+
+
+.l-footer ul li ul, .l-footer ul li ul li {
+    float: none;
+    margin: 0px 0 0 10px;
+	padding:0px;
+	 
+	}
+	
+.l-footer  ul li ul a{
+text-decoration:none;
+color:#313131;
+font: 14px/14px "Helvetica Neue",Roboto,"Segoe UI",Calibri,sans-serif;
+font-weight:bold;
+}
+
+#block-system-main-menu {
+width:100%;
+clear:both;
+}
+
+#block-block-2 {
+border-top: solid 1px #313131;
+clear:left;
+text-align:center;
+margin:10px;
+}
+
+.l-footer {
+padding-left:0;
+padding-right:0;
+}
+
+/* homepage blocks */
+
+#block-views-homepage-blocks-block {
+width: 40%;
+margin-right:0px;
+float:left;
+margin-bottom:20px;
+}
+
+#block-views-homepage-blocks-block .views-row {
+background-color:#6bc1bc;
+}
+
+#block-views-homepage-blocks-block .views-field-title
+{
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 2em;
+font-weight:normal;
+color:#ffffff;
+padding:10px;
+background-color:#6bc1bc;
+}
+
+#block-views-homepage-blocks-block .views-field-title a
+{
+text-decoration:none;
+color:#ffffff;
+}
+
+#block-block-6 {
+width: 40%;
+margin-right:0px;
+float:left;
+background-color:#6669ec;
+padding:10px;
+clear:left;
+margin-bottom:20px;
+color:#ffffff;
+}
+
+
+#block-views-homepage-blocks-block-1 .views-row {
+background-color:#ff6263;
+}
+
+#block-block-6 .block__title
+{
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 3em;
+font-weight:normal;
+color:#ffffff;
+}
+
+#block-block-6 a {
+text-decoration:none;
+color:#ffffff;
+}
+
+#block-views-homepage-blocks-block-1, #block-views-homepage-blocks-block-2 {
+width: 58%;
+float:right;
+clear:right;
+margin-bottom:20px;
+}
+
+#block-views-homepage-blocks-block-1 .views-field-title
+{
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 2em;
+font-weight:normal;
+color:#ffffff;
+padding:10px;
+background-color:#ff6263;
+}
+
+#block-views-homepage-blocks-block-1 .views-field-title a
+{
+text-decoration:none;
+color:#ffffff;
+}
+
+#block-search-form {
+float:right;
+margin-top:2em;
+width:100%;
+}
+
+#search-block-form {
+float:right;
+}
+
+#search-block-form .form-type-textfield {
+width:5em;
+}
+
+#edit-search-block-form--2 {
+    height: 2.5em;
+    width: 20em;
+}
+
+#edit-submit {
+	background-color:#6bc1bc;
+	font-family: '5AM Gender', verdana, sans-serif;
+font-size: 2em;
+font-weight:normal;
+color:#ffffff;
+}
+
+#edit-search-block-form--2 {padding-top:10px;}
+
+#block-views-homepage-blocks-block-2 .views-field-field-teaser-image, #block-views-content-list-block-1 .views-field-field-teaser-image {
+float:left;
+padding:10px;
+}
+
+#block-views-homepage-blocks-block-2 {
+background-color:#ecd631;
+padding:10px;
+height: 22.5em;
+}
+
+
+#block-views-homepage-blocks-block-2 .block__title, #block-block-8 h2
+{
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 3em;
+font-weight:normal;
+margin: 20px 0 20px 10px;
+}
+
+#block-block-7 {
+width:25%;
+float:left;
+margin-right:10px;
+background-color:#ecd631;
+max-height: 17.5em;
+padding-bottom:0.5em;
+clear:left;
+}
+
+#block-block-7 h2, #block-block-8 h2 {
+font-size: 2em;
+padding:10px;
+margin:0px;
+font-weight:normal;
+}
+
+#block-block-7 a, #block-block-8 a {
+font-family: '5AM Gender', verdana, sans-serif;
+font-weight:normal;
+color:#ffffff;
+text-decoration:none;
+}
+
+#block-views-homepage-blocks-block-3 {
+width:25%;
+float:left;
+background-color:#ff8041;
+min-height: 17.5em;
+margin-left:10px;
+}
+#block-views-homepage-blocks-block-3 a {
+color:#ffffff;
+text-decoration:none;
+}
+
+#block-views-homepage-blocks-block-3 p {
+margin:0px;
+}
+
+#block-views-homepage-blocks-block-3 .views-field-field-top-quote {
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 2.2em;
+font-weight:normal;
+padding:10px;
+color:#ffffff;
+line-height:1em;
+}
+
+#block-views-homepage-blocks-block-3 .views-field-title {
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 1.4em;
+font-weight:normal;
+padding:10px;
+float:right;
+}
+
+#block-block-8 {
+width:45%;
+margin-left:20px;
+float:left;
+background-color:#6bc1bc;
+height: 17.5em;
+padding:10px;
+color:#ffffff;
+}
+
+#block-views-content-list-block h2
+{
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 3em;
+}
+
+.view-id-content_list .views-field-title
+{
+font-family: '5AM Gender', verdana, sans-serif;
+font-size: 2em;
+font-weight:normal;
+}
+
+.view-id-content_list .views-field-title a
+{text-decoration:none;
+color:#6bc1bc;
+}
+
+.view-id-content_list .views-row
+{
+padding-top:1em;
+border-top:solid 1px #ff8041;
+margin-bottom:1em;
+clear:both;
+}
+
+.view-id-content_list .views-field-field-portrait
+{
+float:left;
+margin-right:10px;
+}
+
+.view-id-content_list .views-field-field-subtitle
+{font-weight:bold;
+}
+
+.breadcrumb {margin:0px; padding:0px; background-color:#f0f0f0;}
+
+.breadcrumb li
+{
+display: inline;
+background-image:url(../images/vivaarrow.jpg);
+background-repeat:no-repeat;
+background-position:left;
+margin-right: 5px;
+padding-left: 15px;
+}
+
+.breadcrumb a {color:#ff6263;text-decoration:none;}
+
+.breadcrumb li:nth-child(1)
+{
+background-image:none;
+padding-left:none;
+}
+
+.front .breadcrumb {
+display:none;
+}
+
+.caret {display:none;}
+.tb-megamenu .nav > .dropdown > .dropdown-toggle .caret {display:none;}
+.tb-megamenu-column-1 {display:none;}
+. tb-megamenu-submenu {display:none;}
+.tb-megamenu-column-inner {display:none;}
+.dropdown-menu {display:none;}
+.tb-megamenu-submenu .dropdown-menu .mega-dropdown-menu .nav-child {display:none;}
+.tb-megamenu-row {display:none;}
+.mega-dropdown-inner {display:none;}
+
+.cleafix {clear:both;}
+
+.views-field-title a {font-weight:normal;}
+
+#block-views-homepage-blocks-block-2 a {color:#313131;}
