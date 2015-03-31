@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Viva activitists celebs feature.
+ */
+
+include_once 'viva_activitists_celebs.features.inc';
